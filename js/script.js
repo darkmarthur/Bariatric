@@ -1761,7 +1761,7 @@
     /**
      * @module       Magnific Popup
      * @author       Dmitry Semenov
-     * @see          http://dimsemenov.com/plugins/magnific-popup/
+     * @see          https://dimsemenov.com/plugins/magnific-popup/
      * @version      v1.0.0
      */
     if (plugins.mfp.length > 0 || plugins.mfpGallery.length > 0 && !isNoviBuilder) {
